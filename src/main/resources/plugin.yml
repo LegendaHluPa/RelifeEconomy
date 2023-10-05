@@ -1,0 +1,6 @@
+name: RelifeEconomy
+version: '${project.version}'
+main: net.legenahlupa.com.relifeeconomy.RelifeEconomy
+api-version: 1.19
+commands:
+  economy:
